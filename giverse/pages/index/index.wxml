@@ -4,6 +4,7 @@
   class='top-image'
   src='../image/bg1.png'>
 </image>
+<!--
 <view class='bottom-par'>
   <image class='bottom-image' src='../image/image4.png'>
   </image>
@@ -13,9 +14,13 @@
   </image>
   <image class='bottom-image' src='../image/image1.png'>
   </image>
+  
 </view>
-<text class='text-together'>Together</text>
-<text class='text-time'>{{ msg }}</text>
-<text class='text-bottom'>过去有人曾对我说，“一个人爱上小溪，是因为没有见过大海。”而如今我终于可以说，“我已见过银河，但我仍只爱你一颗星。</text>
+-->
+<text class='text-together'>END...</text>
+<!--<text class='text-time'>{{ msg }}</text>
+-->
+<text class='text-time'>0.0.0</text>
+<text class='text-bottom'>不是李银河，也不再有王小波</text>
 </view>
 
