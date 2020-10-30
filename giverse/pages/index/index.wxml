@@ -2,7 +2,7 @@
 <view>
  <image
   class='top-image'
-  src='../image/bg1.png'>
+  src='../image/bg2.jpg'>
 </image>
 <!--
 <view class='bottom-par'>
@@ -17,10 +17,10 @@
   
 </view>
 -->
-<text class='text-together'>END...</text>
-<!--<text class='text-time'>{{ msg }}</text>
--->
-<text class='text-time'>0.0.0</text>
-<text class='text-bottom'>不是李银河，也不再有王小波</text>
+<text class='text-together'>...Acquaintance...</text>
+<text class='text-time'>{{ msg }}</text>
+<text class='text-together'>...In Love...</text>
+<text class='text-time'>{{ msg1 }}</text>
+<text class='text-bottom'>如果可以，和你一直在一起\n变成你喜欢的，随便什么东西 我都愿意\n被炸毁瞬间的楼群\n精妙却无用的机器\n小朵乌云、插座的表情\n浮起整座城市的雨</text>
 </view>
 
